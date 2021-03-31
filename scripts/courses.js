@@ -1,6 +1,6 @@
 'use strict'
 
-const gallery = document.querySelector('.gallery');
+const courseList = document.querySelector('.courseList');
 const modalDialog = document.querySelector('.modal');
 const closeModal = document.querySelector('.close-modal');
 const overlay = document.querySelector('.overlay');

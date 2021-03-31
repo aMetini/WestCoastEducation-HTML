@@ -13,7 +13,7 @@
 
     <link rel="stylesheet" href="/content/css/styles.css" />
     <link rel="stylesheet" media="only screen and (max-width:768px)" href="/content/css/mobile.css" />
-    <link rel="stylesheet" media="print" href="/print.css" />
+    <!--<link rel="stylesheet" media="print" href="/print.css" />-->
     <title>Courses</title>
 </head>
 
@@ -24,12 +24,20 @@
             <ul>
                 <li><a href="index.html">Home</a></li>
                 <li><a class="active" href="courses.html">Courses</a></li>
-                <li><a href="explore.html">Explore</a></li>
+                <!--<li><a href="explore.html">Explore</a></li>-->
                 <li><a href="about.html">About</a></li>
                 <li><a href="contact.html">Contact</a></li>
             </ul>
         </div>
     </nav>
+    <header id="main-display">
+        <div class="container">
+            <div class="main-display-container">
+                <div class="main-display-content">
+                </div>
+            </div>
+        </div>
+    </header>
     <h1>Featured Courses</h1>
     <div class="modal hidden">
         <button class="close-modal">&times;</button>
@@ -41,9 +49,10 @@
     </main>
 
     <div class="overlay hidden"></div>
+    <script src="/scripts/courses.js"></script>
     <script src="/scripts/course-details.js"></script>
     <script src="/scripts/course-list.js"></script>
-    <script src="scripts/app.js"></script>
+    <script src="/scripts/app.js"></script>
 
     <footer class="footer">
         <div class="social">
