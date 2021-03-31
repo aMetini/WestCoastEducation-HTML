@@ -1,7 +1,7 @@
 [{
         "id": 1,
         "courseNumber": 1001,
-        "title": "Introduktion till Design",
+        "title": "Introduction to Design",
         "description": "En beskrivning kommer att komma här",
         "length": 40,
         "category": "Art & Design"
@@ -9,7 +9,7 @@
     {
         "id": 2,
         "courseNumber": 1002,
-        "title": "Introduktion till Marketing",
+        "title": "Introduction to Marketing",
         "description": "En beskrivning kommer att komma här",
         "length": 40,
         "category": "Marketing"
@@ -17,7 +17,7 @@
     {
         "id": 3,
         "courseNumber": 1003,
-        "title": "Introduktion till Development",
+        "title": "Introduction to Development",
         "description": "En beskrivning kommer att komma här",
         "length": 40,
         "category": "Programming"
@@ -25,7 +25,7 @@
     {
         "id": 4,
         "courseNumber": 1004,
-        "title": "Introduktion till IT & Software",
+        "title": "Introduction to  IT & Software",
         "description": "En beskrivning kommer att komma här",
         "length": 40,
         "category": "Programming"
@@ -33,7 +33,7 @@
     {
         "id": 5,
         "courseNumber": 1005,
-        "title": "Introduktion till Personal Development",
+        "title": "Introduction to Personal Development",
         "description": "En beskrivning kommer att komma här",
         "length": 40,
         "category": "Personal Development"
@@ -41,7 +41,7 @@
     {
         "id": 6,
         "courseNumber": 1006,
-        "title": "Introduktion till Business",
+        "title": "Introduction to Business",
         "description": "En beskrivning kommer att komma här",
         "length": 40,
         "category": "Business"
@@ -49,7 +49,7 @@
     {
         "id": 7,
         "courseNumber": 1007,
-        "title": "Introduktion till Music",
+        "title": "Introduction to Music",
         "description": "En beskrivning kommer att komma här",
         "length": 40,
         "category": "Music"
@@ -57,7 +57,7 @@
     {
         "id": 8,
         "courseNumber": 1008,
-        "title": "Introduktion till Photography",
+        "title": "Introduction to Photography",
         "description": "En beskrivning kommer att komma här",
         "length": 40,
         "category": "Photography"

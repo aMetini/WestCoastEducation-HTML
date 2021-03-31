@@ -2,7 +2,7 @@ body {
     background-color: #222;
 }
 
-.courses {
+.courseList {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 1rem;
