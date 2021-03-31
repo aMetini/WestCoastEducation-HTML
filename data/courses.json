@@ -4,6 +4,7 @@
         "title": "Introduction to Design",
         "description": "En beskrivning kommer att komma här",
         "length": 40,
+        "imageName": "course1",
         "category": "Art & Design"
     },
     {
@@ -12,6 +13,7 @@
         "title": "Introduction to Marketing",
         "description": "En beskrivning kommer att komma här",
         "length": 40,
+        "imageName": "course2",
         "category": "Marketing"
     },
     {
@@ -20,6 +22,7 @@
         "title": "Introduction to Development",
         "description": "En beskrivning kommer att komma här",
         "length": 40,
+        "imageName": "course3",
         "category": "Programming"
     },
     {
@@ -28,6 +31,7 @@
         "title": "Introduction to  IT & Software",
         "description": "En beskrivning kommer att komma här",
         "length": 40,
+        "imageName": "course4",
         "category": "Programming"
     },
     {
@@ -36,6 +40,7 @@
         "title": "Introduction to Personal Development",
         "description": "En beskrivning kommer att komma här",
         "length": 40,
+        "imageName": "course5",
         "category": "Personal Development"
     },
     {
@@ -44,6 +49,7 @@
         "title": "Introduction to Business",
         "description": "En beskrivning kommer att komma här",
         "length": 40,
+        "imageName": "course6",
         "category": "Business"
     },
     {
@@ -52,6 +58,7 @@
         "title": "Introduction to Music",
         "description": "En beskrivning kommer att komma här",
         "length": 40,
+        "imageName": "course7",
         "category": "Music"
     },
     {
@@ -60,6 +67,7 @@
         "title": "Introduction to Photography",
         "description": "En beskrivning kommer att komma här",
         "length": 40,
+        "imageName": "course8",
         "category": "Photography"
     }
 ]

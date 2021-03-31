@@ -9,7 +9,7 @@ body {
     justify-content: space-between;
 }
 
-#showCourse .course {
+#showCourse .courses {
     border: solid 1px #444;
     background-color: #fff;
     padding: 3px;
