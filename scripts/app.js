@@ -7,25 +7,8 @@ const listCourses = function() {
         .then(data => console.log(data))
 }
 
-/*
-const listCoursesApi = function() {
-    fetch('http://localhost:3000/courses')
-        .then((response) => response.json())
-        .then((data) => console.log(data));
-}
-*/
 const images = document.querySelectorAll('.course img');
 console.log(images);
-
-courses.forEach(course => {
-    showCourses.insertAdjacentHTML(
-        'beforeend',
-        `<div class = "course" >
-        <img id = "${courses.courseNumber}" src = "/content/img/${courses.imageName}.jpg" alt = "" / >
-        <p > ${courses.courseNumber} ${ courses.imageName } < /p> 
-        </div>`
-    )
-});
 
 
 function getCourses() {
@@ -38,7 +21,8 @@ function getCourses() {
                 coursesSection.insertAdjacentHTML(
                     'beforeend',
                     `<div class="course">
-                    ${item.title} ${item.imageName}.jpg </div>`)
+                    <p>${item.title} <img id = "${courses.courseNumber}" src = "/content/img/${item.imageName}.jpg" alt = "" /></p>
+                    </div>`)
             }
         })
 }
