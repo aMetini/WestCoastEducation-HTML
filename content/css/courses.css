@@ -41,6 +41,7 @@
     width: 300px;
     overflow: hidden;
     height: 260px;
+    text-align: center;
 }
 
 #showCourses .img {
